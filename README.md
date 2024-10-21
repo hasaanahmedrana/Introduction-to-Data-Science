@@ -1,4 +1,4 @@
-﻿*# Introduction-to-Data-Science
+﻿_# Introduction-to-Data-Science
 This # Intro to Data Science
 
 Welcome to my Intro to Data Science repository! This space is dedicated to documenting my hands-on learning journey, showcasing examples, notes, and practical code as
