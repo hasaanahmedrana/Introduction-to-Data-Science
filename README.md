@@ -1,7 +1,7 @@
 # _Introduction-to-Data-Science._
 ---
 _Welcome to my Intro to Data Science repository! This space is dedicated to documenting my hands-on learning journey, showcasing examples, notes, and practical code as
-I dive into the fascinating world of data science._
+I dive into the fascinating world of data science. :)_
 ---
 ##  _What You’ll Find Here_
 
